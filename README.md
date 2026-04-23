@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi, I'm an ECE graduate transitioning into data analytics.<br><br>I am currently building skills in Python for data analysis, focusing on data handling, analysis, and automation. I am working on practical projects to develop the ability to extract meaningful insights from data.<br><br>I am actively preparing for entry-level data analyst roles by strengthening my technical and problem-solving skills.
 
+This is my portfolio Website :https://bharathcpu.github.io/Video-Editor-Portfolio/
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Bharath.ae) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bharath-reddy-95a932264) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@bharath_ae) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saibharathreddyneelapu@gmail.com) 
@@ -15,4 +17,3 @@ Hi, I'm an ECE graduate transitioning into data analytics.<br><br>I am currently
 ---
 [![](https://komarev.com/ghpvc/?username=BharathCPU&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
